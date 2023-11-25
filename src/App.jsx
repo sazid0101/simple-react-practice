@@ -9,6 +9,7 @@ function App() {
 
   return (
     <>
+    
     <Counter></Counter>
       <Sazid ></Sazid>
       <Hafsa></Hafsa>
